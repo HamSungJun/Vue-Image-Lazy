@@ -11,7 +11,7 @@
 ## Installation
 `@vue/cli`를 사용하는 개발 환경에서 이용가능합니다.
 ```
-$ npm install vue-image-lazy -D
+$ npm install vue-image-lazy-directive -D
 ```
 
 ## Usage
