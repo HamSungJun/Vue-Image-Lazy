@@ -1,12 +1,12 @@
 {
     "main": "index.js",
     "name": "vue-image-lazy-directive",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Vue Image Lazy Loading Directive.",
     "keywords": ["vue","directive","image","lazy","loading"],
-    "homepage": "https://github.com/HamSungJun/Vue-Image-Lazy",
+    "homepage": "https://github.com/HamSungJun/Vue-Image-Lazy-Directive",
     "bugs": {
-        "url": "https://github.com/HamSungJun/Vue-Image-Lazy/issues",
+        "url": "https://github.com/HamSungJun/Vue-Image-Lazy-Directive/issues",
         "email": "tjdwns5123@gmail.com"
     },
     "license": "MIT",
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/HamSungJun/Vue-Image-Lazy.git"
+        "url": "https://github.com/HamSungJun/Vue-Image-Lazy-Directive.git"
     }
 }
